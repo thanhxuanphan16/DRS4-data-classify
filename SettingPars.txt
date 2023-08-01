@@ -1,0 +1,15 @@
+#Begin
+#DataFileName
+run_BM_012.dat
+#OutputFileName               
+test.root
+#Nevent
+200
+#PreProc
+A1
+A2
+#Analyse
+B1
+#WaveformSave(YES/NO)
+NO
+#End

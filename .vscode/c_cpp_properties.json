@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "/home/xuan/root_6/root-install/include",
+                "${default}"
+            ],
+            "defines": [
+                "${default}"
+            ],
+            "macFrameworkPath": [
+                "${default}",
+            ],
+            "forcedInclude": [
+                "${default}",
+            ],
+            "compileCommands": "${default}",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "${default}",
+                "path": [
+                    "${default}",
+                ]
+            },
+            "intelliSenseMode": "${default}",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "compilerPath": "${default}"
+        }
+    ],
+    "version": 4
+}
